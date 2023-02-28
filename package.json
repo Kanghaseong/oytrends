@@ -1,0 +1,24 @@
+{
+  "name": "rise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanghaseong/riseWak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanghaseong/riseWak/issues"
+  },
+  "homepage": "https://github.com/Kanghaseong/riseWak#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
